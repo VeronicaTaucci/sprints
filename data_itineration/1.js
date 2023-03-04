@@ -23,3 +23,4 @@ const ramit = {
 
 
 
+console.log(Array.from('foo'));
